@@ -1,0 +1,14 @@
+{
+  "name": "cerita-cinta-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/css/tailwind.css -o ./public/css/style.css --watch"
+  },
+  "author": "Alga Creative Dev",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.12"
+  }
+}
