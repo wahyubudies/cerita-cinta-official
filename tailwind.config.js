@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        'parisienne': ['"Parisienne"', 'cursive']
+        'parisienne': ['"Parisienne"', 'cursive'],
+        'neufreit': 'Neufreit'
       },
       backgroundImage: {
         'hero-background': "url('../images/assets/bw-hero-background.jpg')"
