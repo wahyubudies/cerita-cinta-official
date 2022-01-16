@@ -601,16 +601,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 11rem;
 }
 
-.w-36{
-  width: 9rem;
-}
-
 .w-40{
   width: 10rem;
-}
-
-.w-2\/4{
-  width: 50%;
 }
 
 .max-w-6xl{
@@ -643,14 +635,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .items-center{
   align-items: center;
-}
-
-.justify-start{
-  justify-content: flex-start;
-}
-
-.justify-end{
-  justify-content: flex-end;
 }
 
 .gap-4{
@@ -893,18 +877,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: 50%;
   }
 
-  .md\:max-w-md{
-    max-width: 28rem;
-  }
-
-  .md\:max-w-lg{
-    max-width: 32rem;
-  }
-
-  .md\:max-w-2xl{
-    max-width: 42rem;
-  }
-
   .md\:max-w-3xl{
     max-width: 48rem;
   }
@@ -915,10 +887,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .md\:flex-row{
     flex-direction: row;
-  }
-
-  .md\:flex-col{
-    flex-direction: column;
   }
 
   .md\:items-center{
@@ -975,9 +943,5 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .lg\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .lg\:text-left{
-    text-align: left;
   }
 }
